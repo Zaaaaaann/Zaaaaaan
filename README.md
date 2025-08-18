@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">About me</h5>
+<h4 align="left">` About me</h4>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/ScIHPh0Xht8AAAAM/oz-oz-yarimasu.gif"  />
+<img align="left" height="240" src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif"  />
 
 ###
 
-<h5 align="left">Contact me</h5>
+<h5 align="left">` Contact me</h5>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">Skills</h4>
+<h4 align="left">` Skills</h4>
 
 ###
 
@@ -49,18 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
- ###
+###
 
-![Rocket Launch](https://media.giphy.com/media/3o7TKtdA4KXHQksU4U/giphy.gif)
+<br clear="both">
 
-###
-![Moving Emoji](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
-
-###
-![Girl doing WebDev](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/animated/Girl%20doing%20WebDev.gif?raw=true)
-###
-![Happy Coder](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/animated/Happy%20Coder.gif?raw=true)
-###
-<img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaann/output/snake.svg" alt="Snake animation" />
 
 ###
