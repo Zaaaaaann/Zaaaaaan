@@ -1,17 +1,13 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Manjari&display=swap" rel="stylesheet">
-  <style>
-    body, h1, h2, h3, h4, h5, p, sub {
-      font-family: 'Manjari', sans-serif;
-    }
-  </style>
-</head>
 
 <h1 align="left">Haii ! Nice to see you. 🍀</h1>
 
 ###
 
-<p align="left">My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
+<h4 align="left">` About me</h4>
+
+###
+
+<p align="left">Hi! My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
 
 ###
 
@@ -48,7 +44,6 @@
 ###
 
 <h5 align="left">` Contact with me</h5>
-<p align="left"><sub>Feel free to reach out through any of the platforms below </sub></p>
 
 ###
 
@@ -61,13 +56,9 @@
 
 ###
 
-<h5 align="left">` Projects</h5>
-<p align="left">Here are some repositories you can clone and explore </p>
+<p align="left">Project git clone</p>
 
 ###
-
-<h5 align="left">` Activity</h5>
-<p align="left"><sub>Tracking my contributions and activity on GitHub </sub></p>
 
 <br clear="both">
 
