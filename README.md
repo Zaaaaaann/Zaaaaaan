@@ -3,11 +3,7 @@
 
 ###
 
-<h4 align="left">` About me</h4>
-
-###
-
-<p align="left">Hi! My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
+<p align="left">My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
 
 ###
 
@@ -17,7 +13,7 @@
   <img height="200" src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif"  />
 </div>
 
-###
+---
 
 <h4 align="left">` Skills</h4>
 
@@ -41,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
-###
+---
 
 <h5 align="left">` Contact with me</h5>
 
@@ -55,11 +51,6 @@
 </div>
 
 ###
-
-<p align="left">Project git clone</p>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg" alt="Snake animation" />
