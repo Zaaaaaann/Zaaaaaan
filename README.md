@@ -12,7 +12,6 @@ I continuously learn to grow and improve my skills.</p>
 
 <div align="center">
   <img height="200" src="https://animesher.com/orig/1/143/1431/14311/animesher.com_spring-gif-flowers-gif-1431146.gif" alt="rehat gif" />
-  <img height="200" src="https://i.pinimg.com/originals/40/2c/26/402c261be1da260ec42d317812784f38.gif" alt="ikan gif" />
 </div>
 
 ###
