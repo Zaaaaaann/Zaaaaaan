@@ -1,19 +1,18 @@
 <h1 align="left">Haii ! Nice to see you. 🍀</h1>
 
-###
+### 
 
-<h4 align="left">` About me</h4>
-
-###
-
-<p align="left">Hi! My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
-
-###
+<p align="left">Hi! My name is Muhammad hanip.I am a passionate UI and Frontend Developer from Bekasi, Indonesia.
+Currently, I am a student at a Vocational High School and actively involved in various projects related to web development and design.
+I have skills in Figma, CodeIgniter, React, and Laravel, and I enjoy transforming ideas into interactive, user-friendly, and visually appealing digital experiences.
+I continuously learn to grow and improve my skills.</p>
+---
 
 <br clear="both">
 
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif"  />
+<div align="center">
+  <img height="200" src="https://animesher.com/orig/1/143/1431/14311/animesher.com_spring-gif-flowers-gif-1431146.gif" alt="rehat gif" />
+  <img height="200" src="https://i.pinimg.com/originals/40/2c/26/402c261be1da260ec42d317812784f38.gif" alt="ikan gif" />
 </div>
 
 ###
@@ -55,22 +54,13 @@
 
 ---
 
-<h5 align="left">` Projects</h5>
-
-###
-
-<p align="left">Here are some of my projects that you can explore and clone from GitHub repositories:</p>
-
-<ul align="left">
-  <li><a href="https://github.com/username/project-1" target="_blank">Project 1 - Portfolio Website</a></li>
-  <li><a href="https://github.com/username/project-2" target="_blank">Project 2 - E-commerce App</a></li>
-  <li><a href="https://github.com/username/project-3" target="_blank">Project 3 - Todo List React</a></li>
-</ul>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
