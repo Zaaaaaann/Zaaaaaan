@@ -49,8 +49,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
-###
+ ###
 
+![Rocket Launch](https://media.giphy.com/media/3o7TKtdA4KXHQksU4U/giphy.gif)
+
+###
+![Moving Emoji](https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif)
+
+###
+![Girl doing WebDev](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/animated/Girl%20doing%20WebDev.gif?raw=true)
+###
+![Happy Coder](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/animated/Happy%20Coder.gif?raw=true)
+###
 <img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Snake animation" />
 
 ###
