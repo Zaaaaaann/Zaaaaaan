@@ -1,27 +1,24 @@
-<!-- Import Google Font: Manjari -->
-<link href="https://fonts.googleapis.com/css2?family=Manjari:wght@400;700&display=swap" rel="stylesheet">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Manjari&display=swap" rel="stylesheet">
+  <style>
+    body, h1, h2, h3, h4, h5, p, sub {
+      font-family: 'Manjari', sans-serif;
+    }
+  </style>
+</head>
 
-<style>
-  body {
-    font-family: 'Manjari', sans-serif;
-  }
-</style>
+<h1 align="left">Haii ! Nice to see you. 🍀</h1>
 
-<h1 align="left" style="color:#2e86de;">Haii ! Nice to see you. 🍀</h1>
+###
 
-### 
+<p align="left">My name is Muhammad hanip. I am passionate about frontend development, creating visually appealing and user-friendly websites. I enjoy learning the latest web technologies and turning design concepts into functional interfaces.<br><br>I am always curious, eager to improve my skills, and love experimenting with creative solutions to bring ideas to life. When I’m not coding, I enjoy exploring design trends and improving my knowledge in UI/UX.</p>
 
-<p align="left">My name is <span style="color:#27ae60;">Muhammad Hanip</span>. I am a passionate <span style="color:#e67e22;">UI</span> and <span style="color:#9b59b6;">Frontend Developer</span> from Bekasi, Indonesia.  
-Currently, I am a student at a Vocational High School and actively involved in various projects related to web development and design.  
-I have skills in <span style="color:#e84393;">Figma</span>, <span style="color:#d63031;">CodeIgniter</span>, <span style="color:#0984e3;">React</span>, and <span style="color:#c0392b;">Laravel</span>, and I enjoy transforming ideas into interactive, user-friendly, and visually appealing digital experiences.  
-I continuously learn to grow and improve my skills.</p>
-
----
+###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://animesher.com/orig/1/143/1431/14311/animesher.com_spring-gif-flowers-gif-1431146.gif" alt="rehat gif" />
+<div align="left">
+  <img height="200" src="https://i.pinimg.com/originals/c3/7b/d1/c37bd1db09ab4fac0fdb2a52462df4d3.gif"  />
 </div>
 
 ###
@@ -48,35 +45,32 @@ I continuously learn to grow and improve my skills.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
----
+###
 
-<h5 align="left">` Connect with me</h5>
+<h5 align="left">` Contact with me</h5>
+<p align="left"><sub>Feel free to reach out through any of the platforms below </sub></p>
 
 ###
 
-<ul align="left">
-  <li>Email: yourmail@gmail.com</li>
-  <li>Telegram: @yourusername</li>
-  <li>Twitter: @yourusername</li>
-  <li>Facebook: yourusername</li>
-</ul>
-
----
-
-### Small Animation ✨
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="120" alt="typing loader" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />
 </div>
 
----
+###
 
-<h5 align="center" style="color:#e67e22;">` Activity 🐍 </h5>
+<h5 align="left">` Projects</h5>
+<p align="left">Here are some repositories you can clone and explore </p>
+
+###
+
+<h5 align="left">` Activity</h5>
+<p align="left"><sub>Tracking my contributions and activity on GitHub </sub></p>
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Activity animation" />
-</div>
+<img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg" alt="Snake animation" />
 
 ###
