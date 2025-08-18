@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://media.tenor.com/ScIHPh0Xht8AAAAM/oz-oz-yarimasu.gif"  />
+
+###
+
 <h5 align="left">Contact me</h5>
 
 ###
@@ -47,10 +51,6 @@
 
 ###
 
-<img align="right" height="188" src="https://media.tenor.com/ScIHPh0Xht8AAAAM/oz-oz-yarimasu.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaann/output/snake.svg" alt="Snake animation" />
 
 ###
