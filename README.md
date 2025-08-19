@@ -6,13 +6,7 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif"  />
-</div>
-
----
-
-<h3 align="left">` Skills</h3>
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -36,6 +30,22 @@
 
 ---
 
+<div align="left">
+  <img height="200" src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif"  />
+</div>
+
+###
+
+### 📂 Projects  
+
+| Project | Description | Tech |
+|---------|-------------|------|
+|  [Portfolio Website](#) | Personal portfolio showcasing my works | React, Tailwind |
+|  [E-commerce App](#) | A modern shopping platform with cart & checkout system | Laravel, React |
+|  [Blog Platform](#) | Simple blog CMS with authentication & CRUD | CodeIgniter, MySQL |
+|  [UI Components Library](#) | Custom UI components for faster development | React, Styled Components |
+
+---
 <h3 align="left">` Contact with me</h3>
 
 ###
