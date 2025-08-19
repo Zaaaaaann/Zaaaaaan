@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">` Contact with me</h3>
 
@@ -47,14 +47,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">` Project git clone</h3>
 
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg"alt="Snake animation" />
 
 ###
