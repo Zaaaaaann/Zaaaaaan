@@ -15,8 +15,7 @@
 <div align="left">
   <img height="200" src="https://animesher.com/orig/1/143/1431/14311/animesher.com_spring-gif-flowers-gif-1431146.gif"  />
 </div>
-
-###
+---
 
 <h4 align="left">` Skills</h4>
 
@@ -43,18 +42,13 @@
 ###
 
 <h5 align="left">` Contact with me</h5>
-
-###
-
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  /><p>muhammadhanip@gmail.com</p> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  /> <p>muhammadhanipp</p> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /> <p>muhann</p> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  />  <p>muhammadhanip</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  /> muhammadhanip@gmail.com <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  /> muhammadhanipp<br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  /> muhann  <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo"  /> muhammadhanip
 </div>
-
-###
-
+---
 <p align="left">` Project git clone</p>
 
 ###
