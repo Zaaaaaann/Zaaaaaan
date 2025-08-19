@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://animesher.com/orig/1/143/1431/14311/animesher.com_spring-gif-flowers-gif-1431146.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/40/2c/26/402c261be1da260ec42d317812784f38.gif"  />
 </div>
 
 ###
@@ -18,19 +18,19 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg" height="30" alt="codecov logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-original.svg" height="30" alt="jasmine logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  <img width="10" />
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
@@ -55,10 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg"alt="Snake animation" />
 
 ###
-
-<p align="center">www.zaaaaaann.com</p>
-
-### 
