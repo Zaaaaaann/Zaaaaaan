@@ -7,10 +7,10 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/40/2c/26/402c261be1da260ec42d317812784f38.gif"  />
+  <img height="200" src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif"  />
 </div>
 
-###
+---
 
 <h3 align="left">` Skills</h3>
 
@@ -48,12 +48,3 @@
 </div>
 
 ---
-
-<h3 align="left">` Project git clone</h3>
-
-###
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Zaaaaaan/Zaaaaaan/output/snake.svg"alt="Snake animation" />
-
-###
