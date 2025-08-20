@@ -53,13 +53,13 @@ Css           57 hrs ███████ 40.40 %
 
 #### <div align="center">Stats Commit Clone</div>
 <div align="center">
-<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" 
 
----
 </div>
- 
- <div align="center">
- <div align="center">
+
+ ---
+
+ <div align="center" style="text-decoration:none;color: white;">
   <a href="https://instagram.com/username" target="_blank">Instagram</a> | 
   <a href="https://twitter.com/username" target="_blank">Twitter</a> | 
   <a href="https://t.me/username" target="_blank">Telegram</a> | 
