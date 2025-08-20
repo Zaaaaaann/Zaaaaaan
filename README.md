@@ -51,8 +51,8 @@ Beyond frameworks, I also care a lot about <b>UI and UX principles, accessibilit
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake-dark.svg" />
-        <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake-dark.svg" />
+        <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" />
       </picture>
     </td>
   </tr>
@@ -62,16 +62,8 @@ Beyond frameworks, I also care a lot about <b>UI and UX principles, accessibilit
 
 ## 📂 Projects  
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 [Portfolio Website](https://github.com/<your-username>/portfolio) | Personal portfolio showcasing my works | React, Tailwind |
-| 🛒 [E-commerce App](https://github.com/<your-username>/ecommerce-app) | A modern shopping platform with cart & checkout system | Laravel, React |
-| 📝 [Blog Platform](https://github.com/<your-username>/blog-platform) | Simple blog CMS with authentication & CRUD | CodeIgniter, MySQL |
-| 🎨 [UI Components Library](https://github.com/<your-username>/ui-library) | Custom UI components for faster development | React, Styled Components |
 
----
-
-## 📬 Contact with me  
+## Connect With Me
 
 <div align="left">
   <a href="mailto:yourmail@gmail.com">
