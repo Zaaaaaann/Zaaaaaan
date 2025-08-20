@@ -26,7 +26,7 @@ Hi everyone! 🍁<br>
       </a>
       <br/>
       <pre>
-Laravel      818 hrs ███████████ 48.71 %
+Laravel      818 hrs ███████████ 77.71 %
 React        431 hrs █████ 25.70 %
 Javascript   126 hrs ███████ 40.40 %
 Tailwind      77 hrs ██████ 29.64 %
@@ -54,7 +54,16 @@ Css           57 hrs ███████ 40.40 %
 #### <div align="center">Stats Commit Clone</div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 </div>
+ 
+ <div align="center">
+ <div align="center">
+  <a href="https://instagram.com/username" target="_blank">Instagram</a> | 
+  <a href="https://twitter.com/username" target="_blank">Twitter</a> | 
+  <a href="https://t.me/username" target="_blank">Telegram</a> | 
+  <a href="https://wa.me/6281234567890" target="_blank">WhatsApp</a>
+</div>
+
+ </div>
