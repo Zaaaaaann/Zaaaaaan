@@ -59,11 +59,20 @@ Css           57 hrs ███████ 40.40 %
 
  ---
 
- <div align="center" style="text-decoration:none;color: white;">
-  <a href="https://instagram.com/username" target="_blank">Instagram</a> | 
-  <a href="https://twitter.com/username" target="_blank">Twitter</a> | 
-  <a href="https://t.me/username" target="_blank">Telegram</a> | 
-  <a href="https://wa.me/6281234567890" target="_blank">WhatsApp</a>
+<div align="center" style="color:white;">
+  <a href="https://instagram.com/username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="20" height="20"/> Instagram
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="20" height="20"/> Twitter
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="20" height="20"/> Telegram
+  </a> 
+  &nbsp;&nbsp; 
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="20" height="20"/> WhatsAp
+  </a>
 </div>
-
- </div>
