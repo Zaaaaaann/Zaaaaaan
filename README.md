@@ -18,9 +18,10 @@ I am particularly interested in modern frontend frameworks such as <b>React</b>,
 Beyond frameworks, I also care a lot about <b>UI and UX principles, accessibility, and performance optimization</b>, because I believe a great website should be usable by everyone and perform smoothly across all devices.
 </p>
 
+###
 ---
-
-## 🛠 Skills
+###
+Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -40,44 +41,44 @@ Beyond frameworks, I also care a lot about <b>UI and UX principles, accessibilit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="30" alt="zend logo"  />
 </div>
 
----
+***
+<img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" />
 
-## 🐍 Contribution Snake  
-
+###
 <table>
   <tr>
     <td>
-      <img height="200" src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" alt="gif" />
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake-dark.svg" />
-        <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Zaaaaaann/Zaaaaaan/output/snake.svg" />
-      </picture>
-    </td>
-  </tr>
+      <img height="320" width="900" src="https://i.pinimg.com/originals/de/d4/76/ded4761736127dc5faf81ea683dbf4f3.gif" alt="gif" />
+
+<div align="center">
+  <img src="https://www.codewars.com/users/zaaaa/badges/small" />
+</div>
+ 
+```txt
+Svelte                     ████████████  48.71 %
+TypeScript                 ██████  25.70 %
+PHP                        ████████████  07.52 %
+SQL                        █   04.64 %
+Blade Template             █  03.40 %
+``` 
+  </td>
 </table>
 
----
-
-## 📂 Projects  
-
-
-## Connect With Me
+###
+###
+- Connect With Me
 
 <div align="left">
-  <a href="mailto:yourmail@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo" />
   </a>
-  <a href="https://t.me/yourtelegram">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo" />
   </a>
-  <a href="https://facebook.com/yourfacebook">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="37" height="25" alt="facebook logo" />
   </a>
-  <a href="https://wa.me/62812XXXXXXX">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo" />
   </a>
 </div>
 
----
+###
+
+
